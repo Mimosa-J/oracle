@@ -39,45 +39,30 @@
 ### 数据录入
 
 1. 删除表和序列
-
    ![图片1](./1.png)
 2. 创建DEPARTMENTS表
-
    ![图片2](./2.png)
 3. 创建EMPLOYEES表
-
    ![图片3](./3.png)
 4. 为EMPLOYEES表创建索引和触发器
    索引：
-   
    ![图片4](./4.png)
    触发器：
-   
    ![图片5](./5.png)
-   
    ![图片6](./6.png)
-   
    ![图片7](./7.png)
-   
    ![图片8](./8.png)
-   
    ![图片9](./9.png)
-   
    ![图片10](./10.png)
 5. 创建PRODUCTS表
-
    ![图片11](./11.png)
 6. 为PRODUCTS表创建触发器
-
    ![图片12](./12.png)
 7. 创建ORDER_ID_TEMP表
-
    ![图片13](./13.png)
 8. 创建ORDERS表
-
    ![图片14](./14.png)
-9. 创建本地分区索引ORDERS_INDEX_DATE.
-
+9. 创建本地分区索引ORDERS_INDEX_DATE
     ![图片15](./15.png)
 10. 创建ORDERS_INDEX_CUSTOMER_NAME索引
     ![图片16](./16.png)
